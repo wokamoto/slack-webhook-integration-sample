@@ -6,21 +6,25 @@
   "directories": {
     "lib": "lib"
   },
-  "dependencies": {
-    "qs": "^6.4.0"
-  },
+  "dependencies": {},
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/megumiteam/slack-webhook-integration.git"
+    "url": "git+https://github.com/wokamoto/slack-webhook-integration-sample.git"
   },
+  "keywords": [
+    "serverless",
+    "slack",
+    "node-js",
+    "Lambda"
+  ],
   "author": "wokamoto",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/megumiteam/slack-webhook-integration/issues"
+    "url": "https://github.com/wokamoto/slack-webhook-integration-sample/issues"
   },
-  "homepage": "https://github.com/megumiteam/slack-webhook-integration#readme"
+  "homepage": "https://github.com/wokamoto/slack-webhook-integration-sample#readme"
 }
