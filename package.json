@@ -1,0 +1,26 @@
+{
+  "name": "slack-webhook-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "qs": "^6.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/megumiteam/slack-webhook-integration.git"
+  },
+  "author": "wokamoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/megumiteam/slack-webhook-integration/issues"
+  },
+  "homepage": "https://github.com/megumiteam/slack-webhook-integration#readme"
+}
