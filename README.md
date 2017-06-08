@@ -41,11 +41,11 @@ region: us-east-1
 api keys:
   None
 endpoints:
-  POST - https://wefhfdpssf.execute-api.us-east-1.amazonaws.com/development/slack/webhook
+  POST - https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com/dev/slack/webhook
 functions:
-  receiveWebhook: slack-webhook-integration-development-receiveWebhook
+  receiveWebhook: slack-webhook-integration-dev-receiveWebhook
 
 Stack Outputs
-ReceiveWebhookLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:027273742350:function:slack-webhook-integration-development-receiveWebhook:31
-ServiceEndpoint: https://wefhfdpssf.execute-api.us-east-1.amazonaws.com/development
+ReceiveWebhookLambdaFunctionQualifiedArn: arn:aws:lambda:us-east-1:000000000000:function:slack-webhook-integration-dev-receiveWebhook:31
+ServiceEndpoint: https://xxxxxxxxxx.execute-api.us-east-1.amazonaws.com/dev
 ```
